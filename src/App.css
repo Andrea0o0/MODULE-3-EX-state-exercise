@@ -27,3 +27,8 @@ div.dark h2,
 div.dark h4 {
   color: rgb(206, 206, 206);
 }
+
+.no_display{
+  display: none;
+}
+
